@@ -1,0 +1,59 @@
+body {
+    height: 700px   ;
+    background-image: url(/images/beproductive.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* border: 2px solid red; */
+
+
+}
+
+#bodyMain { 
+    height: 100%;
+    width: 600px;
+    /* border: 2px solid red; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(3, 119, 139, 0.877);
+    margin: auto;
+    background-color: rgba(204, 218, 230, 0.767);
+    border-radius: 2%;
+
+  
+}
+
+header {
+
+    text-align: center;    
+    padding: auto;
+    margin: auto;
+}
+main {
+        width: 600px;
+     margin: auto;
+     /* padding-top: 10%; */
+     /* border: 2px solid green; */
+     text-align: center ;     
+
+}
+
+#exampleInputEmail1 {
+    margin: auto;
+    border: 0ch ;
+    border-bottom: 3px inset;
+
+}
+#exampleInputPassword1 {
+
+    margin: auto;
+    border: 0ch ;
+    border-bottom: 3px inset;
+
+}
+
+footer {
+    margin: auto;
+    font-size: medium;
+    text-align: center;
+    /* border: 2px solid black; */
+    padding: auto;
+}
