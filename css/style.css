@@ -1,5 +1,22 @@
-body {
-    height: 700px   ;
+#todolist_body {
+            background-color: antiquewhite;
+}
+
+th {
+
+        border: 2px solid black;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: larger;
+      color: brown;
+}
+td {
+
+    border: 2px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#indexBody {
+    height: 700px ;
     background-image: url(/images/beproductive.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
